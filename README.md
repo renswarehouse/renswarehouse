@@ -1,7 +1,7 @@
 👋 Hi, I’m @renswarehouse
 
 I create items/scripts for FiveM.
-- 🌱 I’m currently learning 3D modeling
+- 🌱 I’m currently learning 3D modeling and basic scripts
 - 💞️ I’m looking to collaborate on scripts
 - 📫 Contact me on discord! @ren.txt
 
